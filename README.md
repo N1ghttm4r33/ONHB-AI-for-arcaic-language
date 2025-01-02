@@ -31,3 +31,5 @@ OBS:
      Este código tinha sido feito com o propósito de ser utilizado para passar em uma das fases da ONHB: Olimpíada Nacional em História do Brasil. Ela não foi utilizada e eu não sei se ela pode ser utilizada, portanto, para o propósito que você deseje usar é por sua conta e risco.
 
      No mais foi apenas um código que me diverti fazendo, espero que lhe sirva de alguma ajuda!
+
+# Este projeto receberá atualizações no futuro.
