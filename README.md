@@ -18,7 +18,7 @@ primeiro execute !pip install tensorflow tensorflow-datasets
 
 !pip install tensorflow_model_optimization
 
-#Execute o Código
+# Execute o Código
 
 OBS: 
 
